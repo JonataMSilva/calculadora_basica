@@ -15,7 +15,7 @@ Este é um programa Python que permite ao usuário realizar várias operações 
 1 - Clone este repositório:
 
 
-`git clone https://github.com/seu-usuario/nome-do-repositorio.git`
+`git clone git@github.com:JonataMSilva/calculadora_basica.git`
 
 2 - Navegue até o diretório do projeto:
 
